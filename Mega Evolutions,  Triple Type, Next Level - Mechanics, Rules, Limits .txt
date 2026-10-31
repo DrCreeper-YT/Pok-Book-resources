@@ -1,0 +1,35 @@
+KeyStones names:
+
+Venusaurite, Charizardite X, Charizardite Y, Blastoisinite, Beedrillite, Pidgeotite, Alakazamite, Slowbronite, Gengarite, Kangaskhanite, Pinsirite, Gyaradosite, Aerodactylite, Mewtwonite X, Mewtwonite Y, Ampharosite, Steelixite, Scizorite, Heracronite, Houndoominite, Tyranitarite, Sceptilite, Blazikenite, Swampertite, Gardevoirite, Sableyinite, Mawilite, Aggronite, Medichamite, Manectricite, Sharpedonite, Cameruptite, Altarianite, Banettite, Absolite, Glalitite, Salamencite, Metagrossite, Latiasite, Latiosite, Lopunnite, Garchompite, Lucarionite, Abomasite, Audinite, Diancite, Forestlarite X, Forestlarite Y, Quaceanite X, Quaceanite Y, Inferlotite X, Inferlotite Y, Eccultrite X, Eccultrite Y, Roccarmaite X, Roccarmaite Y, Gattocciaite X, Gattocciaite Y, Volrockite X, Volrockite Y, Impecudoite X, Impecudoite Y, Metoggoite X, Metoggoite Y, Meltonite X, Meltonite Y, Maraltoite X, Maraltoite Y, Clar​quaite X, Clar​quaite Y, Luncalcioite X, Luncalcioite Y, Fortugnoite X, Fortugnoite Y, Lethabugite X, Lethabugite Y, Scurdoomite X, Scurdoomite Y, Velneraite X, Velneraite Y, Lunumbraite X, Lunumbraite Y, Coltoreite X, Coltoreite Y, Watturlite X, Watturlite Y
+
+Pokémon with standard Mega Evolutions:
+
+Venusaur, Beedrill, Pidgeot, Alakazam, Slowbro, Gengar, Kangaskhan, Pinsir, Gyarados, Aerodactyl, Ampharos, Steelix, Scizor, Heracross, Houndoom, Tyranitar, Sceptile, Blaziken, Swampert, Gardevoir, Sableye, Mawile, Aggron, Medicham, Manectric, Sharpedo, Camerupt, Altaria, Banette, Absol, Glalie, Salamence, Metagross, Latias, Latios, Rayquaza, Lopunny, Garchomp, Lucario, Abomasnow, Audino, Diancie.
+
+Pokémon with X and Y Mega Evolutions:
+
+Charizard, MewTwo, Forestlar, Quacean, Inferlot, Eccultra, Roccarma, Gattoccia, Volrock, Impecudo, Metoggo, Melton, Maralto, Clarqua, Luncalcio, Fortugno, Lethabug, Scurdoom, Velnera, Lunumbra, Coltore, Watturla.
+
+Pokémon NOT compatible with Mega Evolutions M:
+
+Venusaur, Beedrill, Pidgeot, Alakazam, Slowbro, Gengar, Kangaskhan, Pinsir, Gyarados, Aerodactyl, Ampharos, Steelix, Scizor, Heracross, Houndoom, Tyranitar, Sceptile, Blaziken, Swampert, Gardevoir, Sableye, Mawile, Aggron, Medicham, Manectric, Sharpedo, Camerupt, Altaria, Banette, Absol, Glalie, Salamence, Metagross, Latias, Latios, Rayquaza, Lopunny, Garchomp, Lucario, Abomasnow, Audino, Diancie.
+
+Pokémon compatible with Mega Evolution M:
+
+Charizard, MewTwo, Forestlar, Quacean, Inferlot, Eccultra, Roccarma, Gattoccia, Volrock, Impecudo, Metoggo, Melton, Maralto, Clarqua, Luncalcio, Fortugno, Lethabug, Scurdoom, Velnera, Lunumbra, Coltore, Watturla.
+
+How Mega Evolution M works:
+
+Need to acquire the M-Resonance Bracelet (Mega Bracciale M), a bracelet that can house both X and Y KeyStones. When activated, The compatible Pokémon will turn into its M Mega Evolution form, which grants the Triple Type and the gimmicks/abilities of BOTH X and Y MegaEvolutions combined. It requires tons of energy and the Bond Phenomenom. Mega Evolved M Pokémon can choose if stay in their Mega Evolved forms or go back normal.
+
+ATTENTION:
+
+Mega Evolution M is a gimmick that works solely and exlcusively insside of the region of Mitallo. Outside, the M-Resonance Bracelet will NOT work.
+
+For Legendary Pokémon ONLY:
+
+Legendary Pokémon like Cazeor, Lemax and Syxmund will actively refuse Mega Evolutions or ANY other gimmick because they have their own upgraded forms called Next Level.
+
+Next Level informations:
+
+Next Level is a form that only Legendary Pokémon (like Cazeor, Lemax and Syxmund but ALL Legendary Pokémon can use them) which make said Pokémon bigger, faster, stronger and more precise and can easily beat Mega Evolved M Pokémon too. When a Legendary Pokèmon is in their Next Level form, they cannot be caught no matter the status, circumstances, HP nor the Pokéball used. Pokémon like Rayquaza who support Mega Evolution CAN combine their Mega Evolution with the Next Level form, but will leave them extremely exhausted and weak when the effects wear off.
