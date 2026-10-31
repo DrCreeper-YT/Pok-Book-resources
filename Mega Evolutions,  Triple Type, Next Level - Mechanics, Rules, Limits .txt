@@ -4,7 +4,7 @@ Venusaurite, Charizardite X, Charizardite Y, Blastoisinite, Beedrillite, Pidgeot
 
 Pokémon with standard Mega Evolutions:
 
-Venusaur, Beedrill, Pidgeot, Alakazam, Slowbro, Gengar, Kangaskhan, Pinsir, Gyarados, Aerodactyl, Ampharos, Steelix, Scizor, Heracross, Houndoom, Tyranitar, Sceptile, Blaziken, Swampert, Gardevoir, Sableye, Mawile, Aggron, Medicham, Manectric, Sharpedo, Camerupt, Altaria, Banette, Absol, Glalie, Salamence, Metagross, Latias, Latios, Rayquaza, Lopunny, Garchomp, Lucario, Abomasnow, Audino, Diancie.
+Venusaur, Blastoise, Gallade, Beedrill, Pidgeot, Alakazam, Slowbro, Gengar, Kangaskhan, Pinsir, Gyarados, Aerodactyl, Ampharos, Steelix, Scizor, Heracross, Houndoom, Tyranitar, Sceptile, Blaziken, Swampert, Gardevoir, Sableye, Mawile, Aggron, Medicham, Manectric, Sharpedo, Camerupt, Altaria, Banette, Absol, Glalie, Salamence, Metagross, Latias, Latios, Rayquaza, Lopunny, Garchomp, Lucario, Abomasnow, Audino, Diancie.
 
 Pokémon with X and Y Mega Evolutions:
 
